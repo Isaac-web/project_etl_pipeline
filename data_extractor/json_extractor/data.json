@@ -1,0 +1,38 @@
+[
+	{
+	  "name": "JSON Comptuer Mouse",
+	  "price": 12.8,
+	  "image_url": "http://example.com/mouse.jpg"
+	},
+	{
+	  "name": "JSON Keyboard",
+	  "price": 19.99,
+	  "image_url": "http://example.com/keyboard.jpg"
+	},
+	{
+	  "name": "JSON Gadget",
+	  "price": 49.95,
+	  "image_url": "http://example.com/gadget.jpg"
+	},
+	{
+	  "name": "JSON Essential Kit",
+	  "price": 34.5,
+	  "image_url": "http://example.com/kit.jpg"
+	},
+	{
+	  "name": "JSON Headphones",
+	  "price": 79.99,
+	  "image_url": "http://example.com/headphones.jpg"
+	},
+	{
+	  "name": "JSON Backpack",
+	  "price": 55,
+	  "image_url": "http://example.com/backpack.jpg"
+	},
+	{
+	  "name": "JSON Microphone",
+	  "price": 70.99,
+	  "image_url": "http://example.com/smartwatch.jpg"
+	}
+  ]
+  
